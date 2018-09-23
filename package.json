@@ -1,0 +1,12 @@
+{
+  "name": "@fusionstrings/prettier-config",
+  "version": "1.0.0",
+  "description": "Sharable prettier config",
+  "main": "index.js",
+  "repository": "https://github.com/fusionstrings/prettier-config.git",
+  "author": "Dilip Kr. Shukla <contact@fusionstrings.com>",
+  "license": "GPL-3.0",
+  "peerDependencies": {
+    "prettier": "^1.14.3"
+  }
+}
