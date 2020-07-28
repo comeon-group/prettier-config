@@ -5,7 +5,7 @@ name: Prettier Package Publishing
 on:
   push:
     branches: [master]
-    tags: [*]
+    tags: ['*']
 jobs:
   publish-npm:
     runs-on: ubuntu-latest
