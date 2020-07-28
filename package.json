@@ -3,7 +3,7 @@
   "version": "1.2.1",
   "description": "Sharable prettier config",
   "main": "index.js",
-  "repository": "https://github.com/comeon-stockholm/eslint-config.git",
+  "repository": "https://github.com/comeon-group/eslint-config.git",
   "author": "Dilip Kr. Shukla <dilip.shukla@comeon.com>",
   "license": "GPL-3.0",
   "peerDependencies": {
